@@ -1,0 +1,13 @@
+glucose = [
+    {
+        "glucose_id": 1,
+        "date": "October-04-2022",
+        "glucose": "100"
+    },
+    {
+        "glucose_id": 2,
+        "date": "October-05-2022",
+        "glucose": "105"
+    }
+    
+]
